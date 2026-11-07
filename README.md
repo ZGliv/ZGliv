@@ -16,6 +16,6 @@ I work in healthcare IT in Pittsburgh, supporting clinicians on a hospital EHR, 
 
 Some of my projects live in private repos. Happy to walk through any of them.
 
-**Stack I use most:** TypeScript, Next.js, React, Supabase/Postgres, Vercel, Swift/iOS (via Capacitor).
+**Stack I use most:** TypeScript, Next.js, React, Supabase/Postgres, Vercel, iOS apps via Capacitor.
 
 **Contact:** zgliv21@gmail.com · [LinkedIn](https://www.linkedin.com/in/zackary-glivic)
