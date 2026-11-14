@@ -9,6 +9,8 @@ I work in healthcare IT in Pittsburgh, supporting clinicians on a hospital EHR, 
 | Project | What it is | Live |
 |---|---|---|
 | Parl.ai · private source | Sports research app with odds, injuries, game previews and a public pick record. On the web and the App Store. | [betparl.ai](https://betparl.ai) |
+| [Cyberliga](https://github.com/ZGliv/Cyberliga) | A 24/7 autonomous AI sports world: six sports, 48 clubs and 416 athletes simulated live in the browser. | [app](https://cyberliga-ten.vercel.app) |
+| [Jarvis](https://github.com/ZGliv/ai-voice-agent) | A local, always-on voice assistant for my Mac with live speech recognition, phone calls and tool use. Runs on-device. | |
 | [Bordone](https://github.com/ZGliv/boredone) | Save places, plan a night out, and keep a personal journal of visits. | [app](https://boredone.vercel.app) |
 | [Knightly](https://github.com/ZGliv/knightly) | Chess practice and game review. Current source adds Chess.com imports, recurring-mistake analysis and targeted practice. | [app](https://play-knightly.vercel.app) |
 | [Bullproof](https://github.com/ZGliv/bullproof) | Earnings research prototype with SEC evidence, locked forecasts and a results ledger. | [app](https://bullproof.vercel.app) |
